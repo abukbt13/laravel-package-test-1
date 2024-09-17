@@ -1,9 +1,9 @@
 {
-    "name": "acme/abukbt13-string-generator",
+    "name": "abukbt13/youngdev-random-generator",
     "description": "A package to generate random strings",
     "autoload": {
         "psr-4": {
-            "Acme\\RandomStringGenerator\\": "src/"
+            "Abukbt13\\RandomStringGenerator\\": "src/"
         }
     },
     "require": {}
