@@ -1,0 +1,10 @@
+{
+    "name": "acme/abukbt13-string-generator",
+    "description": "A package to generate random strings",
+    "autoload": {
+        "psr-4": {
+            "Acme\\RandomStringGenerator\\": "src/"
+        }
+    },
+    "require": {}
+}
