@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Acme\\RandomStringGenerator\\' => array($baseDir . '/src'),
+    'Abukbt13\\RandomStringGenerator\\' => array($baseDir . '/src'),
 );

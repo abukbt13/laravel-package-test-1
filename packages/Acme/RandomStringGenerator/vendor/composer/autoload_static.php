@@ -9,12 +9,12 @@ class ComposerStaticInit80b9734d7681d37dceffac4f9215855e
     public static $prefixLengthsPsr4 = array (
         'A' => 
         array (
-            'Acme\\RandomStringGenerator\\' => 27,
+            'Abukbt13\\RandomStringGenerator\\' => 31,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Acme\\RandomStringGenerator\\' => 
+        'Abukbt13\\RandomStringGenerator\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

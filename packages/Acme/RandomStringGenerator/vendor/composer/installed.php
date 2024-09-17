@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'acme/random-string-generator',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'name' => 'abukbt13/youngdev-random-generator',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'e3160e9143dcc0f21aff666cdd5fd7f5079e7748',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'acme/random-string-generator' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+        'abukbt13/youngdev-random-generator' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'e3160e9143dcc0f21aff666cdd5fd7f5079e7748',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
